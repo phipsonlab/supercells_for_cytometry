@@ -1,2 +1,4 @@
 # supercells_for_cytometry
-Supercells enhances analysis of cytometry data
+Supercells coming to the rescue of cytometry data analysis! 
+
+Stay tuned!
